@@ -1,5 +1,5 @@
 // IMPORTANT: Replace with your actual Raspberry Pi IP and make sure it's HTTPS
-const API_BASE_URL = "https://192.168.0.154:5000"; // ← Your Pi's HTTPS URL
+const API_BASE_URL = "https://192.168.0.155:5000"; // ← Your Pi's HTTPS URL
 
 // DO NOT use relative URLs like '/api/...' - they will call your website domain
 // DO NOT forget the protocol (https://)
